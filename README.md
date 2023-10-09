@@ -29,10 +29,6 @@ Here is an example of one row in this dataset:
 
 You can use this dataset for various purposes, such as analyzing the historical development of GPUs, comparing their specifications, or conducting research in the field of graphics hardware.
 
-## License
-
-This dataset is released under the [Creative Commons Zero (CC0) license](https://creativecommons.org/publicdomain/zero/1.0/legalcode). You are free to use, modify, and distribute this dataset for any purpose, and no attribution is required.
-
 
 ## Data Source
 
