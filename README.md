@@ -16,9 +16,12 @@ This dataset provides information about various GPUs (Graphics Processing Units)
 
 Here is an example of one row in this dataset:
 
-| Product Name | GPU Chip | Released    | Bus          | Memory          | GPU clock | Memory clock | Shaders / TMUs / ROPs | URL                            |
-|--------------|----------|-------------|--------------|-----------------|-----------|--------------|-----------------------|--------------------------------|
-| Quadro 4000  | GF100    | Nov 2nd, 2010 | PCIe 2.0 x16 | 2 GB GDDR5, 256-bit | 475 MHz   | 702 MHz      | 256 / 32 / 32         | [Quadro 4000 Specifications](https://www.techpowerup.com/gpu-specs/quadro-4000.c898) |
+| Product Name      | GPU Chip | Released       | Bus         | Memory              | GPU clock | Memory clock | Shaders / TMUs / ROPs | URL                                      |
+|-------------------|----------|----------------|-------------|---------------------|-----------|--------------|-----------------------|------------------------------------------|
+| Radeon R7 240     | Oland    | Oct 8th, 2013  | PCIe 3.0 x8 | 2 GB, GDDR5, 128 bit | 650 MHz   | 1150 MHz     | 320 / 20 / 8          | [/gpu-specs/radeon-r7-240.c3130](https://www.techpowerup.com/gpu-specs/radeon-r7-240.c3130) |
+| Radeon R7 240     | Oland    | Oct 8th, 2013  | PCIe 3.0 x8 | 2 GB, DDR3, 128 bit  | 730 MHz   | 900 MHz      | 320 / 20 / 8          | [/gpu-specs/radeon-r7-240.c2463](https://www.techpowerup.com/gpu-specs/radeon-r7-240.c2463) |
+| Radeon R7 240 OEM | Oland    | Nov 1st, 2013  | PCIe 3.0 x8 | 2 GB, DDR3, 128 bit  | 730 MHz   | 900 MHz      | 320 / 20 / 8          | [/gpu-specs/radeon-r7-240-oem.c2542](https://www.techpowerup.com/gpu-specs/radeon-r7-240-oem.c2542) |
+
 
 ## Dataset Usage
 
