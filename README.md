@@ -12,7 +12,7 @@ This dataset provides information about various GPUs (Graphics Processing Units)
 - **Shaders / TMUs / ROPs**: The number of shaders, texture mapping units, and render output units.
 - **URL**: A URL pointing to detailed specifications for the GPU on [TechPowerUp](https://www.techpowerup.com/).
 
-## Example
+## Examples
 
 Here is an example of one row in this dataset:
 
